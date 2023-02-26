@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: /assets/images/SQLi.png
 ribbon: DodgerBlue
-description: "Windows Privilege escalation vectors explanation"
+description: "Understanding SQL Injection Attacks and how to prevent it"
 categories:
   - Web Vulns
 toc: true
