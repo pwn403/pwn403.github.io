@@ -67,7 +67,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pwn403@proton.me"
     - label: "Facebook"
-      icon: "fab fa-fw fa-hackerone-square"
+      icon: "fab fa-fw fa-hackerone"
       url: "https://www.facebook.com/profile.php?id=100076430379156&mibextid=ZbWKwL"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
