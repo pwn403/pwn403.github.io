@@ -10,9 +10,24 @@ categories:
 toc: true
 ---
 
-# Password Searching
+# What is SQL
 
-Starting with a simple but really helpful method which is searching for files named with specific names like "Password" across the entire drive using the command
+A structured query language (SQL) is a programming language for storing and proccessing information into a Database
+
+For Example :
+assume the target Web application have the following login form 
+
+![login_form](../../assets/images/WebVulns/SQLi/loginform.jpg)
+
+users table 
+
+| username | password      |
+| -------- | ------------- |
+| abdallah | abd123456     |
+| ahmed    | 12-gg123      |
+| admin    | adminpassword |
+
+
 
 	dir /b /a /s C:\ > cdir.txt 
 
